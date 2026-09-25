@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @MS-py-coding
+/src/backend/database.py      @MS-py-coding
+/src/backend/routers/auth.py  @MS-py-coding
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @MS-py-coding
